@@ -1,81 +1,80 @@
-# Hi there, I'm Tonoy Mazumder 👋
+# 👋 Hey, I'm Tonoy Mazumder
 
-💻 **Frontend Developer in Progress**  
-🌱 Currently learning **HTML, CSS & Git**  
-🎯 Goal: Become a **Full-Stack Web Developer**  
-🇧🇩 From Bangladesh
+### 💻 Frontend Developer | React.js & Next.js
 
----
+🚀 Building modern, responsive, and user-friendly web applications from Bangladesh 🇧🇩
 
-## 🚀 About Me
-
-- 📚 Learning web development every day
-- 💡 Passionate about creating clean and responsive websites
-- 🛠️ Building projects to improve my skills
-- 📈 Always eager to learn new technologies
+I enjoy turning ideas into interactive web experiences with clean UI, reusable components, and modern frontend technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,daisyui" />
 </p>
 
-**Currently Learning**
+## 🛠️ Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,mongodb" />
 </p>
 
 ---
 
-## 📌 Current Goals
+## 🚀 Featured Projects
 
-- ✅ Master HTML
-- 🔄 Master CSS
-- ⬜ Learn JavaScript
-- ⬜ Learn React
-- ⬜ Learn Node.js
-- ⬜ Build 20+ Projects
+### 🛒 BazarDor — বাজার দর
+A product price browsing platform with authentication and social login.
 
----
+- 🔐 Email/password authentication
+- 🌐 Google & GitHub OAuth
+- 🛍️ Product category browsing
+- 📱 Responsive user interface
 
-## 📂 Featured Projects
+🔗 [Live Demo](https://bazar-dor-inky.vercel.app/) · [Source Code](https://github.com/Mr-Kulukulu/bazar-dor)
 
-- 🌐 DevConf 2026 Landing Page
-- 🍔 Restaurant Website
-- 🏫 College Website
-- 👨‍💻 Personal Portfolio (Coming Soon)
+### 📰 Bangla News 24
+A web project focused on presenting news content through a responsive interface.
+
+🔗https://bangla-news-24-beta.vercel.app/
+
+### 🏋️ FitLog
+A workout library application for exploring exercises and managing a personal workout plan.
+
+- 💪 Workout browsing and details
+- 📋 Personal workout plan management
+- 📱 Responsive design
+
+🔗https://fit-log-fawn.vercel.app/
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Kulukulu&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kulukulu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-- 📧 Email: mazumdertonoy582@gmail.com
-
-- 🌍 Portfolio: https://mr-kulukulu.github.io/My-Portfolio/
+<p align="left">
+  <a href="https://github.com/Mr-Kulukulu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mr-kulukulu.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:mazumdertonoy582@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💬 Favorite Quote
-
-> "Consistency beats talent when talent doesn't stay consistent."
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+<p align="center">
+  <b>✨ Building for the web, one component at a time.</b>
+</p>
